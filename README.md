@@ -1,0 +1,1 @@
+# guia-dashboard-react-supabase
